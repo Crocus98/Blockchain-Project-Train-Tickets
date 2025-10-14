@@ -1,7 +1,7 @@
 # Blockchain-Dot-Course-Project
 <div align="justify">
   <p>This repository contains the project for the DOT course on Blockchain and Distributed Ledger Technologies: Principles, Applications, and Research Challenges at Polimi.</p>
-  <p>This is a blockchain-based decentralized application (DApp) that manages the entire train ticket lifecycle—from purchase to automatic reimbursement in case of delays. 
+  <p>This is a blockchain-based decentralized application (DApp) that manages the entire train ticket lifecycle from purchase to automatic reimbursement in case of delays. 
     The DApp uses smart contracts to securely track delays and trigger compensation without manual intervention, providing passengers with a transparent, reliable, and efficient reimbursement process.</p>
 </div>
 How to Run the CLI Application
